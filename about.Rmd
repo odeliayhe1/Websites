@@ -1,7 +1,7 @@
 ---
 title: "About this site"
 description: 
-  Fun fact: Marilyn vos Savant is smarter than Newton and Einstein
+  Fun fact - Marilyn vos Savant is smarter than Newton and Einstein
 image: "image.jpg"
 ---
 
