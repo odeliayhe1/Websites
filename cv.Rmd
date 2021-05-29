@@ -1,0 +1,88 @@
+---
+title: "My Curriculum Vitae"  # any name you want here
+---
+
+### I am currently further developing my knowledge and skill sets in the field of Psychology. I aim to contribute as a Psychologist and as an academic to this this field.
+
+## Education
+
+### Bsc Psychology | University of Wollongong, Australia
+July 2014 - July 2017
+
+Award: Graduated with 'Distinction'
+
+### Diploma in Molecular Biotechnology | Ngee Ann Polytechnic, Singapore
+April 2010 - April 2014
+
+Specialisation: Forensic Science
+
+Relevant key modules: Introduction to Social Psychology, Biostatistics, Bioinformatics
+
+### Singapore-Cambridge GCE Ordinary Level | St.Margaret's Secondary School, Singapore
+January 2006 - October 2009
+
+## Experience
+
+### Medical Social Worker | All Saints Home, Singapore
+August 2019 - March 2021
+
+Main responsibilities: To construct personalised interventions to support patients and their families during the recovery and/or adjustment to acute or chronic medical conditions, liaise with other allied health professionals to develop and implement post-discharge plans for the patients, and assist in fund management for patients' families to identify and refer cases for financial assistance.
+
+Relevant skills applied: (1) Conducted biopsychosocial-spiritual assessments on patients for the doctor's perusal to determine the suitability of the patient to the Home's facilities; (2) Investigated abuse or neglect cases and took authorised protective measures when necessary; (3) Performed counselling sessions for patients and their families; (4) Assessed patients' quality of life, autonomy and their (and their families') financial status to design the most suitable intervention for them; (5) Conducted risk assessments of self-harm and to others; (6) Implemented appropriate interventions for coping with behaviours respective to patients' psychiatric conditions
+
+### Research Assistant | National Institute of Education, Singapore
+February 2017 - December 2017
+
+Main responsibilites: To perform psychological tests with children to analyse their development of various abilities
+
+Relevant skills applied: Assessed children's processing speed, visuo-spatial ability, literacy and numeracy, and response inhibition
+
+## Skills
+
+### Research
+
+- Conducted laminar fMRI on participants to obtain data on their Blood Oxygenation Level Dependent Response. From there, I mapped out the regions of interest of the visual cortex on Matlab where I investigated the inverted voxels at different laminar depths of the brain. Some anayses I have conducted are echo-planar imaging, fast fourier transform, and correlational analyses on full-field flash data using custom Matlab code. The purpose of this research is to understand and further inform the field of knowledge about inverted voxels and enable the possible extrapolation of such knowledge to the rest of the cortex.
+
+### Communication
+
+- Participated in debates and presentations; outspoken and able to communicate ideas well
+
+- Able to establish harmonious relations and rapport with colleagues, as well as coordinate ideas in a team
+
+### Leadership
+
+- Planned and led classes and camps in the Young Men's Christian Association (YMCA) and outside of YMCA HQ (e.g. excursions to museums, art classes etc.); facilitated communications between voluntary welfare organisations and beneficiaries
+
+- Headed teams to plan and prepare activities for organisations (e.g. IMH, Family Service Centres)
+
+### Technical and Instrumentation
+
+- Proficient in Microsoft programs (Word, Excel, Powerpoint, Teams etc.)
+
+- Fluent in SPSS analytical software, design and analysis
+
+- Basic knowledge in Matlab
+
+- Familiar with biostatistics and bioinformatics
+
+## Achievements and activities
+
+### Professional Associations
+
+- Institute of Mental Health, Singapore (Volunteer, since November 2016)
+
+- YMCA, Singapore (Member and volunteer, since June 2013)
+
+- Family Service Centre (Volunteer, since February 2012)
+
+### Languages
+
+- Native languages: English, Mandarin (Chinese)
+
+- Dialects: Cantonese (Proficient), Hokkien (Elementary)
+
+- Foreign languages: Japanese (Elementary), Korean (Elementary), German (Elementary)
+
+### Holistic
+
+- Music: ABRSM Grade 8 (Piano), Leisure (Cello, Guitar)
