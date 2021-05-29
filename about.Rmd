@@ -1,7 +1,8 @@
 ---
 title: "About this site"
-description: |
-  Some additional details about the website
+description: 
+  Fun fact: Marilyn vos Savant is smarter than Newton and Einstein
+image: "image.jpg"
 ---
 
 ```{r setup, include=FALSE}
